@@ -1,0 +1,3 @@
+C:\Users\DiXer\source\repos\Viktorina\Viktorina\Debug\Viktorina.vcxproj.AssemblyReference.cache
+C:\Users\DiXer\source\repos\Viktorina\Viktorina\Debug\Viktorina.MyForm.resources
+C:\Users\DiXer\source\repos\Viktorina\Viktorina\Debug\Viktorina.vcxproj.GenerateResource.cache
